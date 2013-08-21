@@ -5,6 +5,6 @@
         "php": ">=5.3.3"
     },
     "autoload": {
-        "psr-0": { "OAuth": "OAuth" }
+        "psr-0": { "OAuth": "" }
     }
 }
