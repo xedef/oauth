@@ -1,0 +1,11 @@
+{
+    "name": "productgram/pgf_oauth",
+    "description": "Productgram's OAuth namespace",
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "psr-0": { "ProductGram\\Security\\OAuth": "OAuth" }
+    },
+    "target-dir": "ProductGram\\Security",
+}
