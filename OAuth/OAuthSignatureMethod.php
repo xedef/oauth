@@ -1,6 +1,6 @@
 <?php
 
-namespace ProductGram\Security\OAuth;
+namespace OAuth;
 
 /**
  * A class for implementing a Signature Method

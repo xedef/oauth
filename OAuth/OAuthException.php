@@ -1,6 +1,6 @@
 <?php
 
-namespace ProductGram\MainBundle\Model\OAuth;
+namespace OAuth;
 
 class OAuthException extends Exception
 {
